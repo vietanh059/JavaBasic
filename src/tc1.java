@@ -1,0 +1,2 @@
+public class tc1 {
+}
